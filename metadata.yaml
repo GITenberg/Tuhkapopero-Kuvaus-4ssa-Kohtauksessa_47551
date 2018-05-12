@@ -1,10 +1,16 @@
 _repo: Tuhkapopero-Kuvaus-4ssa-Kohtauksessa_47551
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lagervall, Jacob Fredrik
     gutenberg_agent_id: '44371'
     url: http://www.gutenberg.org/2009/agents/44371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47551#Tuhkapopero-Kuvaus-4ssa-Kohtauksessa
 gutenberg_issued: '2014-12-06'
 gutenberg_type: Text
 identifiers:
